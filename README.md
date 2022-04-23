@@ -70,7 +70,7 @@ A difficulty setting could also be added, in terms of increasing the number of b
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1Y5I1CrFZW8yVyfUaMFzRajJzS2NxEkmd/view?usp=sharing)
 
 
 ## License
